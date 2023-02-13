@@ -1,5 +1,4 @@
-﻿
-namespace SecondApp
+﻿namespace SecondApp.Handlers
 {
     public class ValuesHandler
     {
